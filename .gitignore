@@ -1,7 +1,3 @@
 project/
-*.dll
-*.pyd
-*.lib
 __pycache__/
 *.pyc
-.env
